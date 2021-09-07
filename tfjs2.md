@@ -224,6 +224,8 @@ Tensor
 
 ### 二维张量
 
+![](https://gw.alicdn.com/imgextra/i4/O1CN01n40DwI278vP4Am2BZ_!!6000000007753-0-tps-800-283.jpg)
+
 二维张量可以用二维数组来定义：
 ```js
 let t2d = tf.tensor2d([[0,0],[0,1]]);
@@ -284,6 +286,8 @@ Tensor
 ```
 
 ### 高维向量
+
+![](https://gw.alicdn.com/imgextra/i2/O1CN01jJ8tw122YVRcv0Vxx_!!6000000007132-2-tps-318-397.png)
 
 从三维开始，用高维数组来表示张量值的可读性就越来越差了。比如：
 ```js
