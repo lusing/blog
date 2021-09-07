@@ -416,6 +416,8 @@ Tensor
 
 ##  将张量转换成js数组
 
+![](https://gw.alicdn.com/imgextra/i4/O1CN01unyeHu1wjbLR9nI4H_!!6000000006344-2-tps-300-168.png)
+
 前面我们学习了很多种张量的生成方法。但是，不知道你意识到了没有，很多时候还是转回到js数组更容易进行一些高阶的操作。
 
 将张量转换成为数组有两种方式，一种是按照原形状转换成数组。异步的可以使用Tensor.array()方法，同步的可以使用Tensor.arraySync()方法。
