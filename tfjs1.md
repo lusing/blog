@@ -1,5 +1,7 @@
 # TensorFlow.js机器学习教程(1) - 穿梭于浏览器与node间
 
+![](https://gw.alicdn.com/imgextra/i4/O1CN01SvbpK71x8KjVYFTqY_!!6000000006398-0-tps-1254-552.jpg)
+
 前端同学学习机器学习，面对汗牛充栋的基于Python的各种教程，虽然不见得不懂Python，但是因为不是后端，想把学到的知识用到工作中还是有一段距离。
 Python确实在机器学习和深度学习领域有着不可替代的生态优势，不过，放到浏览器端和手机端，Python的生态优势好像就发挥不出来了。不管是Android手机还是iOS手机，默认都没有Python运行环境，也写不了Python应用。浏览器里和小程序里，就更没Python什么事儿了。
 
