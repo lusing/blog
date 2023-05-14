@@ -1,11 +1,9 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
+title: "操作系统形式化验证实践教程(6) - 解析C源代码"
 description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
 pubDate: "Jul 01 2022"
 heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
-
-# 操作系统形式化验证实践教程(6) - 解析C源代码
 
 从这一讲我们跨出了Isabelle/HOL的领域，开始进入操作系统的领域。
 目前的操作系统主要是由C语言和汇编语言写成的，所以我们的第一步先从解析C语言代码开始。

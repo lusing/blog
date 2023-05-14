@@ -1,11 +1,9 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
+title: "vscode插件快餐教程(6) - LSP协议的初始化参数"
 description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
 pubDate: "Jul 01 2022"
-heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
+heroImage: "https://upload-images.jianshu.io/upload_images/1638145-0a60a8245a35988d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
-
-# vscode插件快餐教程(6) - LSP协议的初始化参数
 
 学习了lsp的代码补全之后，我们可以尝试搭建一套可以运行的lsp的系统。
 在此之前，我们再将一些细节夯实一下。

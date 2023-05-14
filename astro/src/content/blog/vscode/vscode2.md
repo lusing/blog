@@ -1,11 +1,9 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
+title: "vscode插件快餐教程(2) - 编程语言扩展"
 description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
 pubDate: "Jul 01 2022"
 heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
-
-# vscode插件快餐教程(2) - 编程语言扩展
 
 上一节我们学习了如何写一个控制光标的vscode命令插件。
 对于一个编辑器来说，编辑命令是非常重要的部分。不过vscode更主要的作用不是写文本，而是写代码。所以我们第二讲就直入辅助编写代码的部分。

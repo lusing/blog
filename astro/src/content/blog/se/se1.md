@@ -1,11 +1,11 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
+title: "符号执行(1) - 自动生成覆盖率用例之利器"
 description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
 pubDate: "Jul 01 2022"
 heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
 
-# 符号执行(1) - 自动生成覆盖率用例之利器
+
 
 对于安全性要求比较高的软件，为了防止出现安全漏洞，我们不得不花大量时间写更多的测试用例来提升覆盖率。尤其是高可靠性软件需要的修正条件判定覆盖MC/DC(Modified Condition/Decision Coverage)，更是要多花不少心思。
 

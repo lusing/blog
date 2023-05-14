@@ -1,11 +1,10 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
+title: "vscode插件快餐教程(5) - 代码补全"
 description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
 pubDate: "Jul 01 2022"
 heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
 
-# vscode插件快餐教程(5) - 代码补全
 
 上节我们介绍了lsp的基本框架和协议的三次握手。
 下面我们先学习一个最简单的功能协议：给vscode发送一条通知。

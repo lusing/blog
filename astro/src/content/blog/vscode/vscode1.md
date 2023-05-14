@@ -1,11 +1,9 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
+title: "vscode插件快餐教程(1) - 从写命令开始"
 description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
-pubDate: "Jul 01 2022"
-heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
+pubDate: "May 14 2023"
+heroImage: "https://upload-images.jianshu.io/upload_images/1638145-46f844dc3d4e3d56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
-
-# vscode插件快餐教程(1) - 从写命令开始
 
 大致从2017年开始，vscode就越来越流行。vscode能够流行起来，除了功能强大、微软不断升级给力之外，优秀的插件机制也是非常重要的一环。vscode中相当多的功能也是通过自身的插件机制实现的。
 比起使用coffeescript为主要开发语言的atom IDE，vscode使用越来越有王者气质的typescript做为主要的开发语言，这也为vscode插件开发提供了良好的助力。

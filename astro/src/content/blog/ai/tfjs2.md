@@ -1,11 +1,9 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
-description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
+title: "TensorFlow.js机器学习教程(2) - js味儿的张量操作"
+description: "介绍了如何使用TensorFlow.js进行机器学习,并结合JavaScript的灵活特点进行强大的张量操作。"
 pubDate: "Jul 01 2022"
-heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
+heroImage: "https://gw.alicdn.com/imgextra/i2/O1CN0152pERw1VE0OcVc3AJ_!!6000000002620-0-tps-750-422.jpg"
 ---
-
-# TensorFlow.js机器学习教程(2) - js味儿的张量操作
 
 既然我们使用TensorFlow.js来写机器学习代码而不是用Python版的TensorFlow和PyTorch，我们还是希望让代码充满js本身的味道。
 

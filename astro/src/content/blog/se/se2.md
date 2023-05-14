@@ -1,11 +1,9 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
+title: "符号执行(2) - 用例搜索时间的控制与优化"
 description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
 pubDate: "Jul 01 2022"
 heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
-
-# 符号执行(2) - 用例搜索时间的控制与优化
 
 通过上一节，大家对klee符号执行的概念已经有了比较清晰的了解了。
 但是，一个工具要用起来，面对的是复杂的场景，还有很多困难等着我们去克服。

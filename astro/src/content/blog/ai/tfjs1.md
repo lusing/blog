@@ -5,8 +5,6 @@ pubDate: "Jul 01 2022"
 heroImage: "https://gw.alicdn.com/imgextra/i4/O1CN01SvbpK71x8KjVYFTqY_!!6000000006398-0-tps-1254-552.jpg"
 ---
 
-# TensorFlow.js机器学习教程(1) - 穿梭于浏览器与node间
-
 ![](https://gw.alicdn.com/imgextra/i4/O1CN01SvbpK71x8KjVYFTqY_!!6000000006398-0-tps-1254-552.jpg)
 
 前端同学学习机器学习，面对汗牛充栋的基于Python的各种教程，虽然不见得不懂Python，但是因为不是后端，想把学到的知识用到工作中还是有一段距离。

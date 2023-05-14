@@ -1,11 +1,9 @@
 ---
-title: "操作系统形式化验证实践教程(1) - 证明第一个定理"
+title: "操作系统形式化验证实践教程(2) - HOL列表与集合"
 description: "波澜壮阔的操作系统级的验证全景，我们后面会徐徐展开。做为一个落地的教程，我们千里之行始于足下，先从Isabelle/HOL工具的使用开始说起。"
 pubDate: "Jul 01 2022"
 heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
-
-# 操作系统形式化验证实践教程(2) - HOL列表与集合
 
 在进入相对比较烧脑的证明过程之前，我们先熟悉下HOL语言中处理列表和集合数据结构的部分。
 这部分各种函数式语言其实是大同小异的，学习成本比较低。

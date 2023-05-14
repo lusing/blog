@@ -5,8 +5,6 @@ pubDate: "Jul 01 2022"
 heroImage: "https://upload-images.jianshu.io/upload_images/1638145-8e4275af60afb16e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
 ---
 
-# 操作系统形式化验证实践教程(1) - 证明第一个定理
-
 形式化方法分为三个主要部分：系统建模(System Modeling)、形式规约(Formal Specification)和形式化验证(Formal Verification)。
 其中系统建模用形式化的模型来描述系统及其行为模式。建模完成后，需要用形式规约来精确描述建模出来的需求。有了规约，如何检验是否符合规约呢?这就需要形式化验证方法。
 
